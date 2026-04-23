@@ -1,0 +1,164 @@
+SecureBank Official Knowledge Base Documents
+This document contains a comprehensive set of official policies, product descriptions, fee schedules, and procedures for SecureBank. These documents are designed to serve as the factual knowledge base for the SecureBank Smart Customer Support Chat System (RAG implementation).
+Document 1: Comprehensive Fee Schedule and Service Charges
+**Document ID:** SB-FEE-2026-V2
+**Effective Date:** January 1, 2026
+**Department:** Retail Banking Operations
+1.1 Account Maintenance Fees
+SecureBank strives to provide transparent pricing. Monthly maintenance fees are assessed on the last business day of the statement cycle.
+**Secure Basic Checking:** $12.00 per month.
+*Waiver Conditions:* Fee is waived if the account receives direct deposits totaling $500 or more during the statement cycle, OR if a minimum daily balance of $1,500 is maintained.
+**Secure Premier Checking:** $25.00 per month.
+*Waiver Conditions:* Fee is waived if a combined average daily balance of $15,000 is maintained across linked SecureBank deposit and investment accounts.
+**Secure Student Checking:** $0.00 per month. Available for students aged 16-24 with valid proof of enrollment. Converts to Secure Basic Checking upon the account holder's 25th birthday.
+**Secure Standard Savings:** $5.00 per month.
+*Waiver Conditions:* Fee is waived with a minimum daily balance of $300, OR if an automatic recurring transfer of at least $25 from a SecureBank checking account is established.
+1.2 Transaction and Processing Fees
+**Non-SecureBank ATM Fee (Domestic):** $3.00 per transaction (in addition to any fee charged by the ATM owner). Secure Premier Checking accounts receive up to 5 fee refunds per statement cycle.
+**International ATM Fee:** $5.00 per transaction plus a 3% foreign exchange conversion fee.
+**Overdraft Fee (Paid Item):** $35.00 per item. Maximum of 3 overdraft fees charged per business day. No fee is charged if the account is overdrawn by $5.00 or less at the end of the business day.
+**Non-Sufficient Funds (NSF) Returned Item Fee:** $0.00. SecureBank eliminated NSF fees effective late 2025. Items are simply returned unpaid.
+**Stop Payment Order:** $30.00 per request (valid for 6 months).
+**Cashier's Check:** $10.00 per check.
+**Domestic Wire Transfer (Outgoing):** $30.00.
+**Domestic Wire Transfer (Incoming):** $15.00.
+**International Wire Transfer (Outgoing):** $45.00 (Requires branch visit or advanced online security token).
+**International Wire Transfer (Incoming):** $15.00.
+1.3 Miscellaneous Services
+**Paper Statement Fee:** $2.00 per month. Waived for customers over age 65 or those enrolled in eStatements.
+**Account Research/Reconciliation:** $25.00 per hour (minimum 1 hour).
+**Card Replacement (Standard Mail):** $5.00.
+**Card Replacement (Expedited Shipping):** $25.00.
+Document 2: Credit Card Products and Rewards Program
+**Document ID:** SB-CC-PROD-044
+**Effective Date:** March 15, 2026
+**Department:** Credit Services
+2.1 SecureBank Cash Advantage Visa Signature®
+The Cash Advantage card is designed for everyday spenders seeking straightforward cashback rewards without rotating categories.
+**Annual Fee:** $0.
+**APR:** Variable APR of 18.24% to 28.24% based on creditworthiness.
+**Rewards Structure:**
+Earn an unlimited 1.5% cash back on all eligible purchases.
+Earn 3% cash back on dining and takeout for the first $6,000 spent annually, then 1.5% thereafter.
+**Sign-up Bonus:** Earn a $200 statement credit after spending $1,000 on purchases in the first 90 days from account opening.
+**Foreign Transaction Fee:** 3% of each transaction in US dollars.
+**Redemption:** Cash back can be redeemed as a statement credit, deposited directly into a SecureBank checking or savings account, or used to purchase gift cards. Minimum redemption amount is $25.00.
+2.2 SecureBank Travel Elite Mastercard®
+The Travel Elite card is tailored for frequent travelers, offering premium travel benefits and accelerated rewards on travel-related expenses.
+**Annual Fee:** $95 (Not waived the first year).
+**APR:** Variable APR of 19.99% to 26.99% based on creditworthiness.
+**Rewards Structure:**
+Earn 3x points on travel (airlines, hotels, car rentals, cruises) and dining.
+Earn 1x point on all other eligible purchases.
+**Sign-up Bonus:** Earn 50,000 bonus points after spending $4,000 on purchases in the first 3 months from account opening.
+**Foreign Transaction Fee:** $0.
+**Travel Benefits:**
+Complimentary access to Priority Pass™ Select lounges (up to 4 free visits per year).
+Up to $100 statement credit for TSA PreCheck® or Global Entry application fee every 4 years.
+Trip Cancellation/Interruption Insurance (up to $5,000 per trip).
+Lost Luggage Reimbursement (up to $3,000 per passenger).
+**Redemption:** Points can be redeemed for travel through the SecureBank Travel Portal at a value of 1.25 cents per point, or transferred to participating airline and hotel partners at a 1:1 ratio.
+2.3 Credit Card Dispute Process
+Customers have the right to dispute unauthorized charges or billing errors under the Fair Credit Billing Act (FCBA).
+**Timeline:** Disputes must be submitted within 60 days of the statement date on which the error first appeared.
+**Submission:** Disputes can be initiated via the SecureBank mobile app, online banking portal, or by calling the number on the back of the card.
+**Investigation:** SecureBank will acknowledge the dispute within 30 days and resolve it within two billing cycles (not to exceed 90 days). During the investigation, the disputed amount is withheld from the required payment, and no interest is charged on that specific amount.
+Document 3: Mortgage and Home Equity Products
+**Document ID:** SB-MTG-INFO-102
+**Effective Date:** February 1, 2026
+**Department:** Home Lending
+3.1 Conventional Fixed-Rate Mortgages
+SecureBank offers traditional fixed-rate mortgages providing stability with consistent monthly principal and interest payments over the life of the loan.
+**Terms Available:** 15-year, 20-year, and 30-year terms.
+**Down Payment:** Minimum down payment of 3% for first-time homebuyers (subject to income limits) or 5% for standard conventional loans.
+**Private Mortgage Insurance (PMI):** Required for loans with a down payment of less than 20%. PMI automatically terminates when the loan-to-value (LTV) ratio reaches 78% based on the original amortization schedule.
+**Escrow Accounts:** Required for property taxes and homeowners insurance if the down payment is less than 20%.
+3.2 Adjustable-Rate Mortgages (ARMs)
+ARMs offer a lower initial interest rate for a specified period, after which the rate adjusts annually based on a market index.
+**Products Available:** 5/1 ARM, 7/1 ARM, and 10/1 ARM. (e.g., A 5/1 ARM has a fixed rate for the first 5 years, then adjusts every 1 year).
+**Index and Margin:** Rates are tied to the Secured Overnight Financing Rate (SOFR) plus a margin of 2.75%.
+**Caps:**
+Initial Adjustment Cap: Maximum rate increase at the first adjustment is 2%.
+Subsequent Adjustment Cap: Maximum rate increase at each subsequent adjustment is 1%.
+Lifetime Cap: The interest rate will never exceed 5% above the initial starting rate.
+3.3 Home Equity Line of Credit (HELOC)
+A HELOC allows homeowners to borrow against the equity in their home, providing a revolving line of credit that can be used for home improvements, debt consolidation, or major expenses.
+**Draw Period:** 10 years. During this time, borrowers can access funds and are only required to make interest-only payments (though principal payments are permitted).
+**Repayment Period:** 20 years. After the draw period ends, the outstanding balance is amortized over 20 years, requiring principal and interest payments.
+**Interest Rate:** Variable rate based on the Wall Street Journal Prime Rate plus a margin determined by creditworthiness and LTV ratio.
+**Maximum LTV:** SecureBank will lend up to 85% of the home's appraised value, minus any outstanding first mortgage balance.
+**Annual Fee:** $50 (waived for the first year).
+Document 4: Fraud Prevention, Security, and Liability
+**Document ID:** SB-SEC-POL-088
+**Effective Date:** January 15, 2026
+**Department:** Risk and Fraud Management
+4.1 Zero Liability Protection
+SecureBank provides Zero Liability Protection for unauthorized transactions made with a SecureBank debit or credit card.
+**Coverage:** Customers are not held responsible for unauthorized purchases made in stores, over the phone, or online.
+**Requirements:** To be covered, customers must report the unauthorized transaction promptly. For debit cards, the loss must be reported within 60 days of the statement date showing the unauthorized transaction. If reported after 60 days, the customer may be liable for up to $500, or unlimited liability if the bank can prove the loss could have been prevented with timely reporting.
+4.2 Multi-Factor Authentication (MFA)
+SecureBank mandates MFA for all online and mobile banking access.
+**Methods Supported:** SMS text codes, email codes, automated voice calls, and integration with authenticator apps (e.g., Google Authenticator, Authy) via Time-based One-Time Passwords (TOTP).
+**High-Risk Transactions:** Certain actions, such as adding a new external transfer account, initiating a wire transfer, or changing contact information, require step-up authentication regardless of the device being used.
+4.3 Phishing and Social Engineering Policy
+SecureBank will **never** contact a customer via email, text message, or unsolicited phone call to request:
+Full account numbers or debit/credit card numbers.
+Online banking passwords or PINs.
+One-Time Passcodes (OTPs) sent via text or email.
+Social Security Numbers.
+If a customer receives a suspicious communication claiming to be from SecureBank, they should not click any links or provide information. They should forward the communication to `spoof@securebank.com` and call the official customer service number on the back of their card.
+4.4 Account Freezes and Holds
+SecureBank reserves the right to place a temporary hold or freeze on an account if suspicious activity is detected, such as:
+Unusually large transfers to unknown overseas accounts.
+Multiple failed login attempts.
+Deposits of checks that the bank suspects may be fraudulent or uncollectible.
+Notification from a government agency or court order.
+Customers will be notified via secure message and email if a preventative hold is placed, and must contact the Fraud Department to verify their identity and the transactions in question to lift the hold.
+Document 5: Wealth Management and Investment Services
+**Document ID:** SB-WEALTH-015
+**Effective Date:** April 1, 2026
+**Department:** SecureBank Wealth Management
+5.1 SecureBank Robo-Advisor
+Our automated investment platform is designed for clients seeking a hands-off, algorithm-driven approach to portfolio management.
+**Minimum Investment:** $500 to open an account.
+**Management Fee:** 0.25% annually on Assets Under Management (AUM), billed monthly.
+**Investment Strategy:** Portfolios are constructed using low-cost Exchange-Traded Funds (ETFs) based on Modern Portfolio Theory. Asset allocation is determined by a risk tolerance questionnaire completed during onboarding.
+**Features:** Automatic rebalancing, dividend reinvestment, and tax-loss harvesting (available for accounts over $50,000).
+**Account Types:** Individual taxable accounts, Traditional IRAs, and Roth IRAs.
+5.2 Dedicated Wealth Advisor Services
+For clients with complex financial needs, SecureBank offers dedicated human advisors to provide comprehensive financial planning and bespoke investment strategies.
+**Minimum Requirement:** $250,000 in investable assets.
+**Fee Structure:** Tiered fee schedule based on AUM, starting at 1.00% annually for the first $1 million, decreasing to 0.75% for assets between $1M and $5M, and negotiable for assets above $5M.
+**Services Included:**
+Retirement planning and cash flow analysis.
+Estate planning coordination and trust services.
+Tax-efficient withdrawal strategies.
+Access to alternative investments (private equity, hedge funds) for qualified purchasers.
+Quarterly in-person or virtual portfolio review meetings.
+5.3 Certificates of Deposit (CDs)
+SecureBank offers fixed-rate CDs for clients seeking guaranteed returns over a specific term.
+**Minimum Deposit:** $1,000.
+**Terms Available:** 3 months, 6 months, 12 months, 18 months, 24 months, 36 months, 48 months, and 60 months.
+**Early Withdrawal Penalty:**
+Terms of 12 months or less: Penalty equals 90 days of interest on the amount withdrawn.
+Terms greater than 12 months: Penalty equals 180 days of interest on the amount withdrawn.
+**Renewal:** CDs automatically renew at maturity for the same term at the then-current interest rate, unless the customer provides instructions during the 10-day grace period following maturity.
+Document 6: Customer Support and Escalation Procedures
+**Document ID:** SB-CUST-PROC-009
+**Effective Date:** January 1, 2026
+**Department:** Customer Experience
+6.1 Contact Channels and Hours of Operation
+**General Customer Service (Phone):** 1-800-555-BANK (2265). Available 24/7/365 for automated assistance and lost/stolen card reporting. Live agents available Monday-Friday 8:00 AM to 10:00 PM EST, and Saturday-Sunday 9:00 AM to 5:00 PM EST.
+**Secure Messaging:** Available via the online banking portal and mobile app. Guaranteed response time within 1 business day.
+**Live Chat:** Available via the website and mobile app during live agent hours.
+**Branch Locations:** Standard hours are Monday-Friday 9:00 AM to 5:00 PM, and Saturday 9:00 AM to 1:00 PM (select locations).
+6.2 Complaint Escalation Matrix
+SecureBank is committed to resolving customer issues promptly. If a customer is dissatisfied with the initial resolution, the following escalation path applies:
+**Tier 1 (Frontline Support):** Initial contact via phone, chat, or branch. Agents are empowered to waive up to two fees per year (e.g., overdraft, late fee) as a courtesy for accounts in good standing.
+**Tier 2 (Supervisor/Manager):** If Tier 1 cannot resolve the issue, the customer can request a supervisor. Supervisors can authorize larger fee refunds, investigate complex billing errors, and handle escalated technical issues.
+**Tier 3 (Executive Resolution Team):** For highly complex issues, formal complaints, or regulatory concerns. Cases reach Tier 3 via internal escalation from Tier 2, or if a customer submits a formal written complaint to the corporate headquarters. Tier 3 aims to provide a final written resolution within 15 business days.
+6.3 Accessibility Services
+SecureBank provides services for customers with disabilities in compliance with the ADA.
+**Telecommunications Relay Service (TRS):** Customers who are deaf, hard of hearing, or have speech disabilities can dial 711 to connect with a relay operator who will facilitate the call with SecureBank.
+**Alternative Formats:** Bank statements, notices, and checks can be provided in large print, Braille, or audio format upon request. Requests take approximately 10-14 business days to process.
+**Website Accessibility:** The SecureBank website is designed to meet WCAG 2.1 AA standards, ensuring compatibility with screen readers and keyboard navigation.

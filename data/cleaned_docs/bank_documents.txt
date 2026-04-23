@@ -1,0 +1,119 @@
+Sample Bank Official Documents
+These documents are designed to simulate real-life official company documents for a bank, providing factual data for the LLM in the Smart Customer Support Chat System. They cover common customer inquiries related to account types, loan products, and credit card services.
+Document 1: Savings Account Features
+**Document ID:** BA-SA-001
+**Effective Date:** 2026-01-01
+Standard Savings Account
+The Standard Savings Account at "SecureBank" is designed for everyday savings with easy access to your funds. It offers a competitive interest rate and no monthly maintenance fees when a minimum daily balance of $300 is maintained. Interest is compounded daily and credited monthly. Customers can make up to six (6) free withdrawals per month. Additional withdrawals are subject to a $5 fee per transaction. Online banking and mobile app access are included, allowing for convenient fund transfers and balance inquiries. FDIC insured up to the maximum legal limit.
+High-Yield Savings Account
+The High-Yield Savings Account is ideal for customers looking to maximize their savings. It offers a significantly higher interest rate compared to the Standard Savings Account, provided a minimum daily balance of $10,000 is maintained. A monthly service fee of $10 applies if the balance falls below this threshold. This account also includes up to six (6) free withdrawals per month, with a $10 fee for each additional withdrawal. All features of online and mobile banking are available. FDIC insured up to the maximum legal limit.
+Document 2: Personal Loan Information
+**Document ID:** BA-PL-002
+**Effective Date:** 2026-02-15
+SecureBank Personal Loans
+SecureBank offers flexible personal loans to help you achieve your financial goals, whether it's consolidating debt, financing a major purchase, or covering unexpected expenses. Our personal loans feature fixed interest rates and predictable monthly payments.
+Eligibility Requirements:
+Minimum credit score of 680.
+Stable employment history for at least 12 months.
+Debt-to-income ratio not exceeding 40%.
+Must be 18 years or older and a U.S. citizen or permanent resident.
+Loan Terms:
+**Loan Amounts:** $2,000 to $50,000.
+**Repayment Periods:** 12 to 60 months.
+**Interest Rates:** Starting from 7.99% APR, varying based on creditworthiness and loan term.
+**Origination Fee:** 1% of the loan amount, deducted from the disbursed funds.
+Application Process:
+Applications can be submitted online through our secure portal or in person at any SecureBank branch. Required documents include proof of income, identification, and bank statements.
+Document 3: Credit Card Benefits - Platinum Rewards Card
+**Document ID:** BA-CC-003
+**Effective Date:** 2026-03-10
+SecureBank Platinum Rewards Card
+The SecureBank Platinum Rewards Card is designed for individuals who want to earn rewards on every purchase. Enjoy a range of benefits and features that enhance your spending power.
+Key Benefits:
+**Earn Rewards:** 2 points per dollar on dining and travel, 1 point per dollar on all other eligible purchases.
+**Welcome Offer:** Earn 25,000 bonus points after spending $1,500 in the first three months.
+**Annual Fee:** $95 (waived for the first year).
+**APR:** Variable APR of 16.99% - 24.99% based on creditworthiness.
+**Foreign Transaction Fee:** None.
+**Travel Perks:** Complimentary travel insurance, car rental collision damage waiver, and lost luggage reimbursement.
+**Purchase Protection:** Extended warranty and purchase protection on eligible items.
+Redeeming Rewards:
+Points can be redeemed for travel, cashback, gift cards, or merchandise through the SecureBank Rewards portal. Minimum redemption is 2,500 points.
+Document 4: Online Banking Security Tips
+**Document ID:** BA-OS-004
+**Effective Date:** 2026-04-01
+Protecting Your SecureBank Online Accounts
+At SecureBank, your security is our top priority. Follow these essential tips to keep your online banking experience safe and secure.
+General Security Practices:
+**Strong Passwords:** Create unique, complex passwords for your online banking account. Use a combination of uppercase and lowercase letters, numbers, and symbols. Avoid using easily guessable information like birthdays or names.
+**Two-Factor Authentication (2FA):** Always enable 2FA for an extra layer of security. This requires a second verification step, such as a code sent to your mobile phone, in addition to your password.
+**Monitor Account Activity:** Regularly review your account statements and transaction history for any suspicious activity. Report unauthorized transactions immediately.
+**Secure Wi-Fi:** Only access your online banking through secure, private Wi-Fi networks. Avoid using public Wi-Fi for sensitive transactions.
+Phishing and Scams:
+**Be Skeptical:** Be wary of unsolicited emails, text messages, or phone calls asking for personal or account information. SecureBank will never ask for your full password, PIN, or one-time passcodes via email or text.
+**Verify Links:** Before clicking on any links, hover over them to see the actual URL. Ensure it leads to the official SecureBank website.
+**Report Suspicious Activity:** If you receive a suspicious communication claiming to be from SecureBank, do not respond. Forward the email to `phishing@securebank.com` or call our customer support line directly.
+Document 5: Mortgage Application Process
+**Document ID:** BA-MA-005
+**Effective Date:** 2026-05-01
+SecureBank Mortgage Application Guide
+Applying for a mortgage can be a complex process, but SecureBank is here to guide you every step of the way. This document outlines the general steps involved in securing a home loan with us.
+Step 1: Pre-qualification/Pre-approval
+**Pre-qualification:** Provides an estimate of how much you might be able to borrow based on your financial information. It's a quick, informal assessment.
+**Pre-approval:** A more thorough review of your finances, resulting in a conditional commitment from SecureBank for a specific loan amount. This requires documentation of income, assets, and credit history.
+Step 2: Find a Home & Make an Offer
+Once pre-approved, you can confidently search for a home within your budget. When your offer is accepted, you'll move to the next stage.
+Step 3: Complete the Mortgage Application
+Submit a full mortgage application with all required documentation, including:
+Recent pay stubs and W-2 forms.
+Bank and investment statements.
+Tax returns for the past two years.
+Details of any other debts.
+Step 4: Underwriting
+Our underwriting team will review your application, credit history, and property appraisal to assess risk and ensure all criteria are met.
+Step 5: Closing
+Upon final approval, you'll sign the necessary legal documents and the loan will be disbursed. Congratulations, you're a homeowner!
+Document 6: Fraud Prevention and Reporting
+**Document ID:** BA-FP-006
+**Effective Date:** 2026-06-01
+SecureBank Fraud Prevention and Reporting Guidelines
+SecureBank is committed to protecting you from fraud. Understanding common fraud schemes and knowing how to report suspicious activity are crucial for your financial safety.
+Common Fraud Types:
+**Phishing:** Attempts to trick you into revealing personal information (passwords, account numbers) through fake emails, texts, or websites.
+**Identity Theft:** When someone uses your personal information without your permission to commit fraud.
+**Scams:** Various schemes designed to trick you into sending money or providing financial details, often involving false promises or urgent requests.
+How to Protect Yourself:
+**Be Vigilant:** Always question unexpected requests for money or personal information.
+**Secure Your Devices:** Use antivirus software, firewalls, and keep your operating system and applications updated.
+**Review Statements:** Check your bank and credit card statements regularly for unauthorized transactions.
+**Shred Documents:** Properly dispose of sensitive documents by shredding them.
+Reporting Fraud:
+If you suspect you have been a victim of fraud or notice suspicious activity on your SecureBank accounts:
+**Contact SecureBank Immediately:** Call our dedicated Fraud Hotline at 1-800-555-FRUD (1-800-555-3783) or visit your nearest branch.
+**Change Passwords:** Update your online banking passwords and any other compromised credentials.
+**File a Police Report:** For identity theft or significant financial loss, file a report with your local law enforcement agency.
+**Notify Credit Bureaus:** Consider placing a fraud alert or freezing your credit with major credit bureaus (Equifax, Experian, TransUnion).
+Document 7: International Wire Transfer Guide
+**Document ID:** BA-WT-007
+**Effective Date:** 2026-07-01
+SecureBank International Wire Transfer Services
+SecureBank provides secure and efficient international wire transfer services for sending funds globally. This guide outlines the process and requirements.
+Initiating a Wire Transfer:
+International wire transfers can be initiated through our online banking portal or by visiting a SecureBank branch. For security reasons, first-time international transfers may require in-person verification.
+Required Information for Recipient:
+To ensure a smooth transfer, you will need the following details for the recipient:
+Full Name and Address of Recipient.
+Recipient's Bank Name and Address.
+Recipient's Account Number.
+SWIFT/BIC Code of the Recipient's Bank.
+IBAN (International Bank Account Number) for transfers to Europe.
+Fees and Exchange Rates:
+**Outgoing International Wire Fee:** $45 per transfer.
+**Incoming International Wire Fee:** $15 per transfer.
+**Exchange Rates:** SecureBank uses competitive exchange rates, which are displayed at the time of transfer initiation. Rates are subject to change.
+Processing Times:
+International wire transfers typically take 1-5 business days to be received by the beneficiary bank, depending on the destination country and intermediary banks involved. Transfers initiated after 3:00 PM EST will be processed on the next business day.
+Important Considerations:
+**Verification:** For your security, large transfers or transfers to new recipients may require additional verification steps.
+**Irrevocable:** Once an international wire transfer is sent, it is generally irrevocable. Please ensure all recipient details are accurate before confirming the transfer.
+**Regulations:** All international transfers are subject to anti-money laundering (AML) and other regulatory compliance checks.

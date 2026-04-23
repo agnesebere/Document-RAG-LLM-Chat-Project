@@ -1,0 +1,13 @@
+llama-index
+langchain
+langgraph
+qdrant-client
+fastapi
+uvicorn
+python-dotenv
+pydantic
+python-docx
+tiktoken
+sentence-transformers
+requests
+mistralai
