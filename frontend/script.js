@@ -12,7 +12,8 @@ async function sendMessage() {
     input.value = "";
 
     try {
-        const response = await fetch("http://127.0.0.1:8000/chat", {
+        // Try fetching from 127.0.0.1
+        let response = await fetch("http://127.0.0.1:8000/chat", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -31,7 +32,7 @@ async function sendMessage() {
         chatBox.innerHTML += `<div class="bot">${data.answer}</div>`;
     } catch (error) {
         console.error("Error fetching chat response:", error);
-        chatBox.innerHTML += `<div class="bot error">Sorry, I'm having trouble connecting to the server. Please make sure the backend is running.</div>`;
+        chatBox.innerHTML += `<div class="bot error">Connection Error: Could not reach the backend. <br><br> 1. Ensure all other terminal scripts are closed.<br> 2. Refresh the page.<br> 3. Check if the backend terminal shows any errors.</div>`;
     }
     
     chatBox.scrollTop = chatBox.scrollHeight;

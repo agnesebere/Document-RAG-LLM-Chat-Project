@@ -1,9 +1,14 @@
 from pathlib import Path
 import json
+import os
+from dotenv import load_dotenv
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance, PointStruct
 from sentence_transformers import SentenceTransformer
 import uuid
+
+# Load environment variables
+load_dotenv()
 
 # Paths
 CHUNKS_PATH = Path("data/chunks/securebank_chunks.json")
@@ -11,8 +16,11 @@ CHUNKS_PATH = Path("data/chunks/securebank_chunks.json")
 # Load embedding model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# Connect to Qdrant (persistent local storage on disk)
-client = QdrantClient(path="qdrant_data")
+# Connect to Qdrant (Cloud)
+client = QdrantClient(
+    url=os.getenv("QDRANT_URL"),
+    api_key=os.getenv("QDRANT_API_KEY")
+)
 
 COLLECTION_NAME = "securebank_docs"
 

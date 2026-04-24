@@ -19,7 +19,12 @@ MODEL_NAME = "mistral-large-latest"
 
 llm = Mistral(api_key=MISTRAL_API_KEY)
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-client = QdrantClient(path="qdrant_data")
+
+# Connect to Qdrant (Cloud)
+client = QdrantClient(
+    url=os.getenv("QDRANT_URL"),
+    api_key=os.getenv("QDRANT_API_KEY")
+)
 
 COLLECTION_NAME = "securebank_docs"
 
