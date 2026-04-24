@@ -2,7 +2,6 @@ import os
 from dotenv import load_dotenv
 from mistralai.client import Mistral
 from qdrant_client import QdrantClient
-from sentence_transformers import SentenceTransformer
 from scripts.memory_utils import get_customer_memory, update_customer_memory
 from scripts.guardrails import (
     is_sensitive_query,
@@ -18,7 +17,7 @@ MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 MODEL_NAME = "mistral-large-latest"
 
 llm = Mistral(api_key=MISTRAL_API_KEY)
-embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+EMBED_MODEL = "mistral-embed"
 
 # Connect to Qdrant (Cloud)
 client = QdrantClient(
@@ -35,7 +34,9 @@ def has_sufficient_context(context: str) -> bool:
 
 def retrieve_context(query: str) -> str:
     # Perform a semantic search to retrieve relevant bank documentation
-    query_vector = embedding_model.encode(query).tolist()
+    # Use Mistral API for embeddings to save local memory (essential for Render/Cloud)
+    resp = llm.embeddings.create(model=EMBED_MODEL, inputs=[query])
+    query_vector = resp.data[0].embedding
 
     # Using query_points for the latest Qdrant API
     results = client.query_points(

@@ -4,17 +4,18 @@ import os
 from dotenv import load_dotenv
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance, PointStruct
-from sentence_transformers import SentenceTransformer
+from mistralai.client import Mistral
 import uuid
 
 # Load environment variables
 load_dotenv()
 
+# Mistral Client for embeddings
+mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
+EMBED_MODEL = "mistral-embed"
+
 # Paths
 CHUNKS_PATH = Path("data/chunks/securebank_chunks.json")
-
-# Load embedding model
-model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Connect to Qdrant (Cloud)
 client = QdrantClient(
@@ -30,7 +31,7 @@ def create_collection():
     client.recreate_collection(
         collection_name=COLLECTION_NAME,
         vectors_config=VectorParams(
-            size=384,  # embedding size for this model
+            size=1024,  # embedding size for mistral-embed
             distance=Distance.COSINE
         )
     )
@@ -45,21 +46,24 @@ def load_chunks():
 
 def store_embeddings(chunks):
     # Prepare points to be stored in the vector database
+    print("Generating embeddings using Mistral API...")
+    
+    texts = [chunk["text"] for chunk in chunks]
+    
+    # Generate embeddings in one batch request
+    resp = mistral_client.embeddings.create(model=EMBED_MODEL, inputs=texts)
+    embeddings = [item.embedding for item in resp.data]
+    
     points = []
-
-    for chunk in chunks:
-        # Generate an embedding for each chunk of text
-        embedding = model.encode(chunk["text"]).tolist()
-
+    for i, chunk in enumerate(chunks):
         point = PointStruct(
             id=str(uuid.uuid4()),
-            vector=embedding,
+            vector=embeddings[i],
             payload={
                 "text": chunk["text"],
                 "metadata": chunk["metadata"]
             }
         )
-
         points.append(point)
 
     # Upsert the generated points into the Qdrant collection
