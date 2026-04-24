@@ -12,8 +12,8 @@ async function sendMessage() {
     input.value = "";
 
     try {
-        // Try fetching from 127.0.0.1
-        let response = await fetch("http://127.0.0.1:8000/chat", {
+        // Updated to use the Render cloud backend URL
+        let response = await fetch("https://securebank-api-i53h.onrender.com/chat", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
